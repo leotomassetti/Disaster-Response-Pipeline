@@ -10,9 +10,9 @@ The Disaster Response Pipelineproject is a part of Udacity Data Scientist Nanode
 	- workspace
 		- \app
 			- run.py: flask file to run the app
-		- \templates
-			- master.html: main page of the web application 
-			- go.html: result web page
+			- \templates
+				- master.html: main page of the web application 
+				- go.html: result web page
 		- \data
 			- disaster_categories.csv: categories dataset
 			- disaster_messages.csv: messages dataset
